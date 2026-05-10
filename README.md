@@ -1,6 +1,7 @@
 # Hey there, I'm Stormizn 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=stormizn&color=0e75b6&style=flat-square)](https://github.com/stormizn)
+[![India](https://img.shields.io/badge/India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=138808)](https://en.wikipedia.org/wiki/India)
 
 ---
 
@@ -45,8 +46,8 @@ I'm a developer with **5+ years** of writing Java, **3+ years** of building Mine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stormizn&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormizn&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=stormizn&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=stormizn&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -57,7 +58,6 @@ I'm a developer with **5+ years** of writing Java, **3+ years** of building Mine
 
 ## 📖 When I'm Not Coding
 
-- 🇮🇳 **Location:** India
 - 📚 **Avid Reader** — especially fiction and fantasy (huge Potterhead 🧙)
 - 🎬 **Anime Enthusiast**
 - ♟️ **Chess Player**

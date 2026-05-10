@@ -1,6 +1,5 @@
 # Hey there, I'm Stormizn 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=stormizn&color=0e75b6&style=flat-square)](https://github.com/stormizn)
 📍 Lucknow, India
 
 ---
@@ -47,11 +46,18 @@ I'm a developer with **5+ years** of writing Java, **3+ years** of building Mine
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=stormizn&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=stormizn&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=stormizn&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---

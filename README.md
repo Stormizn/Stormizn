@@ -8,6 +8,8 @@
 
 I'm a developer with **5+ years** of writing Java, **3+ years** of building Minecraft plugins, and solid experience across the full stack. I enjoy turning ideas into working code — whether that's a server-side plugin, a web app, or even a python script :3
 
+- 🖥️ **Daily Driver:** Windows + IntelliJ IDEA
+
 - 🧩 **Java** — 5+ years. My bread and butter.
 - ⛏️ **Minecraft Plugin Development** — 3+ years. Spigot/Paper, Minestom, custom mechanics.
 - 🌐 **Web Development** — HTML, CSS, JavaScript (intermediate), building functional frontends and backends.
@@ -26,14 +28,40 @@ I'm a developer with **5+ years** of writing Java, **3+ years** of building Mine
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+
+---
+
+## 📚 Currently Learning
+
+- 🦀 **Rust** — systems programming
+- 🟣 **Kotlin** — modern JVM language
+- ⚛️ **React / Next.js** — frontend development
+- ⛏️ **NMS & Minestom** — deeper Minecraft server internals
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stormizn&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormizn&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=stormizn&theme=radical&hide_border=true" />
 </p>
+
+---
+
+## 📖 When I'm Not Coding
+
+- 🇮🇳 **Location:** India
+- 📚 **Avid Reader** — especially fiction and fantasy (huge Potterhead 🧙)
+- 🎬 **Anime Enthusiast**
+- ♟️ **Chess Player**
+- 💪 **Calisthenics Enthusiast**
 
 ---
 

@@ -78,4 +78,4 @@ I'm a developer with **5+ years** of writing Java, **3+ years** of building Mine
 
 ---
 
-> "Code is like a plugin — if it works, don't touch it. If it breaks, blame the server :V"
+> "If you cant fix a bug, make it a feature"

@@ -32,12 +32,7 @@ I'm a developer with **5+ years** of writing Java, **3+ years** of building Mine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stormizn&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormizn&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stormizn&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=stormizn&theme=radical&hide_border=true" />
 </p>
 
 ---

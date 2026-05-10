@@ -8,7 +8,7 @@
 
 I'm a developer with **5+ years** of writing Java, **3+ years** of building Minecraft plugins, and solid experience across the full stack. I enjoy turning ideas into working code — whether that's a server-side plugin, a web app, or even a python script :3
 
-- 🖥️ **Daily Driver:** Windows + IntelliJ IDEA
+- 🖥️ **Daily Driver:** Windows + IntelliJ IDEA + VS Code
 
 - 🧩 **Java** — 5+ years. My bread and butter.
 - ⛏️ **Minecraft Plugin Development** — 3+ years. Spigot/Paper, Minestom, custom mechanics.
@@ -29,6 +29,7 @@ I'm a developer with **5+ years** of writing Java, **3+ years** of building Mine
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 ---

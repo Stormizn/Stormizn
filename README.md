@@ -48,23 +48,12 @@ I'm a developer with **5+ years** of writing Java, **3+ years** of building Mine
 
 ---
 
-## 📌 Featured Projects
 
-### [PluginName](https://github.com/stormizn/pluginname)
-A Minecraft Spigot/Paper plugin that does X — built with Java and Maven.
-
-### [WebApp](https://github.com/stormizn/webapp)
-A full-stack web app using Node.js, Express, and MongoDB.
-
-### [ScriptHub](https://github.com/stormizn/scripthub)
-Collection of Python automation scripts for daily dev tasks.
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stormizn&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=stormizn&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">

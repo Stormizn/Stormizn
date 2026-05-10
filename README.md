@@ -1,7 +1,7 @@
 # Hey there, I'm Stormizn 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=stormizn&color=0e75b6&style=flat-square)](https://github.com/stormizn)
-[![India](https://img.shields.io/badge/India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=138808)](https://en.wikipedia.org/wiki/India)
+📍 Lucknow, India
 
 ---
 

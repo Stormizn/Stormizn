@@ -6,10 +6,10 @@
 
 ## ⚡ About Me
 
-I'm a developer with **5+ years** writing Java, **3+ years** building Minecraft plugins, and solid experience across the full stack. I enjoy turning ideas into working code — whether that's a server-side plugin, a web app, or a Python script.
+I'm a developer with **5+ years** of writing Java, **3+ years** of building Minecraft plugins, and solid experience across the full stack. I enjoy turning ideas into working code — whether that's a server-side plugin, a web app, or even a python script :3
 
 - 🧩 **Java** — 5+ years. My bread and butter.
-- ⛏️ **Minecraft Plugin Development** — 3+ years. Spigot/Paper, NMS, custom mechanics.
+- ⛏️ **Minecraft Plugin Development** — 3+ years. Spigot/Paper, Minestom, custom mechanics.
 - 🌐 **Web Development** — HTML, CSS, JavaScript (intermediate), building functional frontends and backends.
 - 🐍 **Python** — Experience with scripting, automation, and tools.
 
@@ -24,7 +24,8 @@ I'm a developer with **5+ years** writing Java, **3+ years** building Minecraft 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -47,4 +48,4 @@ I'm a developer with **5+ years** writing Java, **3+ years** building Minecraft 
 
 ---
 
-> "Code is like a plugin — if it works, don't touch it. If it breaks, blame the server."
+> "Code is like a plugin — if it works, don't touch it. If it breaks, blame the server :V"

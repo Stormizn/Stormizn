@@ -6,11 +6,11 @@
 
 ## ⚡ About Me
 
-I'm a developer with **5+ years** of writing Java, **3+ years** of building Minecraft plugins, and solid experience across the full stack. I enjoy turning ideas into working code — whether that's a server-side plugin, a web app, or even a python script :3
+I'm a developer with **4+ years** of writing Java, **3+ years** of building Minecraft plugins, and solid experience across the full stack. I enjoy turning ideas into working code — whether that's a server-side plugin, a web app, or even a python script :3
 
 - 🖥️ **Daily Driver:** Windows
 
-- 🧩 **Java** — 5+ years. My bread and butter.
+- 🧩 **Java** — 4+ years. My bread and butter.
 - ⛏️ **Minecraft Plugin Development** — 3+ years. Spigot/Paper, Minestom, custom mechanics.
 - 🌐 **Web Development** — HTML, CSS, JavaScript (intermediate), building functional frontends and backends.
 - 🐍 **Python** — Experience with scripting, automation, and tools.
